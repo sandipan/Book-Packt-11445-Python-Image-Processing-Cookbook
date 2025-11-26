@@ -1,3 +1,8 @@
+<p align='center'><a href='https://www.eventbrite.com/e/algorithmic-trading-with-python-cohort-2-tickets-1833367644979?aff=oddtdtcreator'><img src='https://static.packt-cdn.com/assets/images/packt+events/Python_for_Algorithmic Trading_v1.png'/></a></p>
+
+
+
+
 # Python Image Processing Cookbook
 
 <a href="https://www.packtpub.com/data/python-image-processing-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781789537147"><img src="https://static.packt-cdn.com/products/9781789537147/cover/smaller" alt="Python Image Processing Cookbook" height="256px" align="right"></a>
@@ -65,3 +70,7 @@ More Image Processing Problems can be found here: https://github.com/sandipan/So
 
 Code Repo for my new book: https://github.com/sandipan/Solving-Image-Processing-Problems-with-Python-Part1
 
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781789537147">https://packt.link/free-ebook/9781789537147 </a> </p>
